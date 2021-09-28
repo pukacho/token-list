@@ -15209,6 +15209,22 @@
       "extensions": {
         "website": "https://www.felizcoin.org/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "2KccNRqHQdnQ9WS8vLSo8uwVPpW7dojmMmZuDpwi6mKd",
+      "symbol": "WESH",
+      "name": "WeShare",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/DmarshalTU/We-Share/78a62a121b7dcee0ed9425e3d168349dc4078706/www/assets/media/logo.png",
+      "tags": [
+        "tokenized-stock",
+        "weshare",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://www.we-share.online/"
+      }
     }
   ],
   "version": {
